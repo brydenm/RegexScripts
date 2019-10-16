@@ -1,2 +1,3 @@
 .+?(?=x) #match all characters up to and excluding "x"
 \n #newline
+[x|y] #match x OR y
